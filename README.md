@@ -33,9 +33,10 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
+<div>September 27, 2022</div>
 <div>
 
-September 27, 2022 - [**DevOpsNotts**](https://www.meetup.com/DevOps-Notts/)
+[**DevOpsNotts**](https://www.meetup.com/DevOps-Notts/)
 
 </div>
 
@@ -46,9 +47,10 @@ The Wonders and Woes of Webhooks - Meetup Talk
 </strong>
 
 ✨✨✨
+<div>September 29 - 30, 2022</div>
 <div>
 
-September 29 - 30, 2022 - [**DevOpsDays London 2022**](https://devopsdays.org/events/2022-london/welcome/)
+[**DevOpsDays London 2022**](https://devopsdays.org/events/2022-london/welcome/)
 
 </div>
 
@@ -59,9 +61,10 @@ What DragonBall can teach us about being engineers - Ignite Talk
 </strong>
 
 ✨✨✨
+<div>October 3 - 4, 2022</div>
 <div>
 
-October 3 - 4, 2022 - [**KubeHuddle 2022**](https://kubehuddle.com/2022/)
+[**KubeHuddle 2022**](https://kubehuddle.com/2022/)
 
 </div>
 
@@ -78,9 +81,10 @@ What DragonBall can teach us about being engineers - Lightning Talk
 </strong>
 
 ✨✨✨
+<div>November 28 - December 2, 2022</div>
 <div>
 
-November 28 - December 2, 2022 - [**AWS re:Invent 2022**](https://reinvent.awsevents.com/)
+[**AWS re:Invent 2022**](https://reinvent.awsevents.com/)
 
 </div>
 
