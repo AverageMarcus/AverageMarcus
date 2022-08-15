@@ -33,24 +33,24 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-September 27, 2022 - [**DevOpsNotts**](https://www.meetup.com/DevOps-Notts/)
+<div>September 27, 2022 - [**DevOpsNotts**](https://www.meetup.com/DevOps-Notts/)</div>
 
 <strong>The Wonders and Woes of Webhooks - Meetup Talk</strong>
 
 ✨✨✨
-September 29 - 30, 2022 - [**DevOpsDays London 2022**](https://devopsdays.org/events/2022-london/welcome/)
+<div>September 29 - 30, 2022 - [**DevOpsDays London 2022**](https://devopsdays.org/events/2022-london/welcome/)</div>
 
 <strong>What DragonBall can teach us about being engineers - Ignite Talk</strong>
 
 ✨✨✨
-October 3 - 4, 2022 - [**KubeHuddle 2022**](https://kubehuddle.com/2022/)
+<div>October 3 - 4, 2022 - [**KubeHuddle 2022**](https://kubehuddle.com/2022/)</div>
 
 <strong>The Wonders and Woes of Webhooks - Presentation</strong>
 
 <strong>What DragonBall can teach us about being engineers - Lightning Talk</strong>
 
 ✨✨✨
-November 28 - December 2, 2022 - [**AWS re:Invent 2022**](https://reinvent.awsevents.com/)
+<div>November 28 - December 2, 2022 - [**AWS re:Invent 2022**](https://reinvent.awsevents.com/)</div>
 
 <strong>Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor</strong>
 
