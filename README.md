@@ -36,7 +36,7 @@ Below are a selection of highlights.
 <div>September 27, 2022</div>
 <div>
 
-[**DevOpsNotts**](https://www.meetup.com/DevOps-Notts/)
+[**DevOpsNotts**](https://www.meetup.com/devops-notts/events/288022574/)
 
 </div>
 
@@ -60,6 +60,13 @@ What DragonBall can teach us about being engineers - Ignite Talk
 
 </strong>
 
+<strong>
+
+🎟 <a href="https://ti.to/devopsdays-london/2022/discount/DODL22_SPEAKER_20">20% discount on tickets</a>
+
+
+</strong>
+
 ✨✨✨
 <div>October 3 - 4, 2022</div>
 <div>
@@ -77,6 +84,13 @@ The Wonders and Woes of Webhooks - Presentation
 <strong>
 
 What DragonBall can teach us about being engineers - Lightning Talk
+
+</strong>
+
+<strong>
+
+🎟 <a href="https://www.tickettailor.com/checkout/view-event/id/1400278/chk/9f6c/?modal_widget=true&widget=true&promo=FRIENDS">20% discount on tickets</a>
+
 
 </strong>
 
