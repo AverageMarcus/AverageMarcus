@@ -33,27 +33,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>September 29 - 30, 2022</div>
-<div>
-
-[**DevOpsDays London 2022**](https://devopsdays.org/events/2022-london/welcome/)
-
-</div>
-
-<strong>
-
-What DragonBall can teach us about being engineers - Ignite Talk
-
-</strong>
-
-<strong>
-
-🎟 <strike><a href="https://ti.to/devopsdays-london/2022/discount/DODL22_SPEAKER_20">20% discount on tickets</a></strike> SOLD OUT
-
-
-</strong>
-
-✨✨✨
 <div>October 3 - 4, 2022</div>
 <div>
 
@@ -77,6 +56,20 @@ What DragonBall can teach us about being engineers - Lightning Talk
 
 🎟 <strike><a href="https://www.tickettailor.com/checkout/view-event/id/1400278/chk/9f6c/?modal_widget=true&widget=true&promo=FRIENDS">20% discount on tickets</a></strike> SOLD OUT
 
+
+</strong>
+
+✨✨✨
+<div>November 22 - 23, 2022</div>
+<div>
+
+[**Kubernetes Community Days UK**](https://kcduk.io/)
+
+</div>
+
+<strong>
+
+Managing Kubernetes without losing your cool - Presentation
 
 </strong>
 
