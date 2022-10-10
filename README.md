@@ -33,33 +33,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>October 3 - 4, 2022</div>
-<div>
-
-[**KubeHuddle 2022**](https://kubehuddle.com/2022/)
-
-</div>
-
-<strong>
-
-The Wonders and Woes of Webhooks - Presentation
-
-</strong>
-
-<strong>
-
-What DragonBall can teach us about being engineers - Lightning Talk
-
-</strong>
-
-<strong>
-
-🎟 <strike><a href="https://www.tickettailor.com/checkout/view-event/id/1400278/chk/9f6c/?modal_widget=true&widget=true&promo=FRIENDS">20% discount on tickets</a></strike> SOLD OUT
-
-
-</strong>
-
-✨✨✨
 <div>November 22 - 23, 2022</div>
 <div>
 
