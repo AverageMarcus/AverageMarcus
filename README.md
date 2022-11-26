@@ -33,20 +33,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>November 22 - 23, 2022</div>
-<div>
-
-[**Kubernetes Community Days UK**](https://kcduk.io/)
-
-</div>
-
-<strong>
-
-Managing Kubernetes without losing your cool - Presentation
-
-</strong>
-
-✨✨✨
 <div>November 28 - December 2, 2022</div>
 <div>
 
@@ -57,6 +43,20 @@ Managing Kubernetes without losing your cool - Presentation
 <strong>
 
 Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+
+</strong>
+
+✨✨✨
+<div>February 7th - February 8th, 2023</div>
+<div>
+
+[**Civo Navigate**](https://www.civo.com/navigate)
+
+</div>
+
+<strong>
+
+Attendee
 
 </strong>
 
