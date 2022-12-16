@@ -33,20 +33,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>November 28 - December 2, 2022</div>
-<div>
-
-[**AWS re:Invent 2022**](https://reinvent.awsevents.com/)
-
-</div>
-
-<strong>
-
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
-
-</strong>
-
-✨✨✨
 <div>February 7th - February 8th, 2023</div>
 <div>
 
@@ -57,6 +43,20 @@ Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a 
 <strong>
 
 Attendee
+
+</strong>
+
+✨✨✨
+<div>April 18th - 21st, 2023</div>
+<div>
+
+[**KubeCon &amp; CloudNativeCon EU**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+
+</div>
+
+<strong>
+
+Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
 
 </strong>
 
