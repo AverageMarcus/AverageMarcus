@@ -33,20 +33,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>February 7th - February 8th, 2023</div>
-<div>
-
-[**Civo Navigate**](https://www.civo.com/navigate)
-
-</div>
-
-<strong>
-
-Attendee
-
-</strong>
-
-✨✨✨
 <div>April 18th - 21st, 2023</div>
 <div>
 
