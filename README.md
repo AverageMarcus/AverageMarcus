@@ -33,6 +33,26 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
+<div>March 16th, 2023</div>
+<div>
+
+[**Kubernetes Community Days Ukraine - Fundraiser**](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
+
+</div>
+
+<strong>
+
+Managing Kubernetes without losing your cool - Talk
+
+</strong>
+
+<strong>
+
+<a href="https://crowdfunding.lfx.linuxfoundation.org/initiative/08e7b56c-7e38-45d4-9f8b-276c03376d5c">Dontate Here</a>
+
+</strong>
+
+✨✨✨
 <div>April 18th - 21st, 2023</div>
 <div>
 
