@@ -53,6 +53,20 @@ Managing Kubernetes without losing your cool - Talk
 </strong>
 
 ✨✨✨
+<div>March 28th, 2023</div>
+<div>
+
+[**DevOps Oxford**](https://www.meetup.com/devopsoxford/events/291595200/)
+
+</div>
+
+<strong>
+
+Managing Kubernetes without losing your cool - Talk
+
+</strong>
+
+✨✨✨
 <div>April 18th - 21st, 2023</div>
 <div>
 
