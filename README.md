@@ -61,5 +61,33 @@ Managing Kubernetes without losing your cool - Talk
 </strong>
 
 ✨✨✨
+<div>October 17th - 18th, 2023</div>
+<div>
+
+[**Kubernetes Community Days UK**](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2023/https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2023/)
+
+</div>
+
+<strong>
+
+Attendee
+
+</strong>
+
+✨✨✨
+<div>November 6th - 9th, 2023</div>
+<div>
+
+[**KubeCon &#43; CloudNativeCon NA**](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
+</div>
+
+<strong>
+
+Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+
+</strong>
+
+✨✨✨
 
 </div>
