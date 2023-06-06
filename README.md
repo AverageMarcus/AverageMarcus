@@ -33,16 +33,30 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>April 18th - 21st, 2023</div>
+<div>June 15th - 16th, 2023</div>
 <div>
 
-[**KubeCon &amp; CloudNativeCon EU**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+[**DevOpsDays Birmingham**](https://devopsdays.org/events/2023-birmingham-uk/)
 
 </div>
 
 <strong>
 
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+What Pokémon can teach us about being engineers - Ignite Talk
+
+</strong>
+
+✨✨✨
+<div>October 7th, 2023</div>
+<div>
+
+[**DDD East Midlands**](https://dddeastmidlands.com/)
+
+</div>
+
+<strong>
+
+Managing Kubernetes without losing your cool - Talk
 
 </strong>
 
