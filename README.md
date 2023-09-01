@@ -35,6 +35,20 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
+<div>September 19th, 2023</div>
+<div>
+
+[**Kubernetes London**](https://www.meetup.com/kubernetes-london/events/295156725/)
+
+</div>
+
+<strong>
+
+The Wonders and Woes of Webhooks - Talk
+
+</strong>
+
+✨✨✨
 <div>October 7th, 2023</div>
 <div>
 
@@ -58,7 +72,7 @@ Managing Kubernetes without losing your cool - Talk
 
 <strong>
 
-Attendee
+Webhooks - what's the worst that could happen? - Talk
 
 </strong>
 
