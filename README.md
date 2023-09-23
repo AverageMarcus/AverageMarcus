@@ -35,20 +35,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>September 19th, 2023</div>
-<div>
-
-[**Kubernetes London**](https://www.meetup.com/kubernetes-london/events/295156725/)
-
-</div>
-
-<strong>
-
-The Wonders and Woes of Webhooks - Talk
-
-</strong>
-
-✨✨✨
 <div>October 7th, 2023</div>
 <div>
 
@@ -86,7 +72,7 @@ Webhooks - what's the worst that could happen? - Talk
 
 <strong>
 
-Attendee
+<a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-na-chicago-2023/talk/XX3HWC/">Webhooks - what's the worst that could happen?</a> - Talk
 
 </strong>
 
@@ -100,7 +86,7 @@ Attendee
 
 <strong>
 
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor (find us at booth `I10`)
 
 </strong>
 
