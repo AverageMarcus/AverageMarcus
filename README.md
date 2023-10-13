@@ -35,20 +35,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>October 7th, 2023</div>
-<div>
-
-[**DDD East Midlands**](https://dddeastmidlands.com/)
-
-</div>
-
-<strong>
-
-Managing Kubernetes without losing your cool - Talk
-
-</strong>
-
-✨✨✨
 <div>October 17th - 18th, 2023</div>
 <div>
 
