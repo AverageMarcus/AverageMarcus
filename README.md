@@ -35,20 +35,6 @@ Below are a selection of highlights.
 ## 🗓 Upcoming Events
 
 
-<div>October 17th - 18th, 2023</div>
-<div>
-
-[**Kubernetes Community Days UK**](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2023/https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2023/)
-
-</div>
-
-<strong>
-
-Webhooks - what's the worst that could happen? - Talk
-
-</strong>
-
-✨✨✨
 <div>November 4th - 5th, 2023</div>
 <div>
 
