@@ -12,25 +12,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 
 | <a href="https://marcusnoble.co.uk" rel="me" title="My articles on my Blog">Blog</a> | <a href="mailto:hello@marcusnoble.co.uk" rel="me" title="Email me">Email</a> | <a href="https://cv.marcusnoble.co.uk" rel="me" title="My CV">C.V.</a> | <a href="https://www.github.com/AverageMarcus" rel="me" title="AverageMarcus on GitHub">GitHub</a> | <a href="https://twitter.com/Marcus_Noble_" rel="me" title="@Marcus_Noble_ on Twitter">Twitter</a> | <a href="https://k8s.social/@Marcus" rel="me" title="@marcus@k8s.social on Mastodon">Mastodon</a> | <a href="https://www.linkedin.com/in/marcusnoble/" rel="me" title="Connect with me on Linkedin">LinkedIn</a> | <a href="https://speaking.marcusnoble.co.uk" rel="me" title="View my previous talks">Speaking</a> | <a href="https://youtube.com/playlist?list=PLT41C0Ggz5wa66-AU5xapbOuzkUKUPLzi" rel="me" title="My appearances on YouTube">YouTube</a> | <a href="https://name.pn/marcus-noble" rel="me" title="More about my name and pronouns">name.pn</a> | 
 
-## 💻 My Open Source Projects
-
-All my Open Source projects can be found on my <a href="https://github.com/AverageMarcus">GitHub</a> profile (as well as my personal <a href="https://git.cluster.fun">Gitea</a> instance, <a href="https://gitlab.com/AverageMarcus">GitLab</a>, <a href="https://codeberg.org/AverageMarcus">Codeberg</a> and <a href="https://bitbucket.org/AverageMarcus/workspace/projects/PROJ">BitBucket</a>).
-
-Below are a selection of highlights.
-
-
-[**kube-image-prefetch**](https://github.com/AverageMarcus/kube-image-prefetch) - Pre-pull all images, on all nodes, within a Kubernetes cluster [Go]
-
-[**cel-tester**](https://github.com/AverageMarcus/cel-tester) - Browser-based CEL expression tester [HTML, Go]
-
-[**opengraph-image-gen**](https://github.com/AverageMarcus/opengraph-image-gen) - Dynamically generate OpenGraph social share images [HTML, Go]
-
-[**speedtest-exporter**](https://github.com/AverageMarcus/speedtest-exporter) - A prometheus exporter for Speedtest.net results [Go]
-
-[**feed-fetcher**](https://github.com/AverageMarcus/feed-fetcher) - Returns the RSS feed associated with the given URL [HTML, Go]
-
-[**link**](https://github.com/AverageMarcus/link) - Tiny link redirector. Best used with a short domain. [Go]
-
 
 ## 🗓 Upcoming Events
 
@@ -65,3 +46,37 @@ Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a 
 ✨✨✨
 
 </div>
+
+
+
+
+## 💻 My Open Source Projects
+
+All my Open Source projects can be found on my <a href="https://github.com/AverageMarcus">GitHub</a> profile (as well as my personal <a href="https://git.cluster.fun">Gitea</a> instance, <a href="https://gitlab.com/AverageMarcus">GitLab</a>, <a href="https://codeberg.org/AverageMarcus">Codeberg</a> and <a href="https://bitbucket.org/AverageMarcus/workspace/projects/PROJ">BitBucket</a>).
+
+Below are a selection of highlights.
+
+
+[**kube-image-prefetch**](https://github.com/AverageMarcus/kube-image-prefetch) - Pre-pull all images, on all nodes, within a Kubernetes cluster [Go]
+
+[**cel-tester**](https://github.com/AverageMarcus/cel-tester) - Browser-based CEL expression tester [HTML, Go]
+
+[**opengraph-image-gen**](https://github.com/AverageMarcus/opengraph-image-gen) - Dynamically generate OpenGraph social share images [HTML, Go]
+
+[**speedtest-exporter**](https://github.com/AverageMarcus/speedtest-exporter) - A prometheus exporter for Speedtest.net results [Go]
+
+[**feed-fetcher**](https://github.com/AverageMarcus/feed-fetcher) - Returns the RSS feed associated with the given URL [HTML, Go]
+
+[**link**](https://github.com/AverageMarcus/link) - Tiny link redirector. Best used with a short domain. [Go]
+
+
+
+
+## 🎖️ Badges
+
+
+<a href="https://www.credly.com/badges/cd63e887-72ac-49b0-8322-a4062d86d997/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/b1eaaa0e-3e14-4bfe-9881-9ce477cfa7fc/image.png" />
+</a>
+
+
