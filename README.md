@@ -16,30 +16,30 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>November 4th - 5th, 2023</div>
+<div>March 17th - 18th, 2024</div>
 <div>
 
-[**Cloud Native Rejekts**](https://cloud-native.rejekts.io/)
+[**Cloud Native Rejekts EU**](https://cloud-native.rejekts.io/)
 
 </div>
 
 <strong>
 
-<a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-na-chicago-2023/talk/XX3HWC/">Webhooks - what's the worst that could happen?</a> - Talk
+Attendee
 
 </strong>
 
 ✨✨✨
-<div>November 6th - 9th, 2023</div>
+<div>March 19th - 22nd, 2024</div>
 <div>
 
-[**KubeCon &#43; CloudNativeCon NA**](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+[**KubeCon &#43; CloudNativeCon EU**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
 </div>
 
 <strong>
 
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor (find us at booth `I10`)
+Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
 
 </strong>
 
