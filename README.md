@@ -57,6 +57,8 @@ All my Open Source projects can be found on my <a href="https://github.com/Avera
 Below are a selection of highlights.
 
 
+[**devstats-viewer**](https://github.com/AverageMarcus/devstats-viewer) - Discover your CNCF devstats score based on your GitHub username [HTML]
+
 [**kube-image-prefetch**](https://github.com/AverageMarcus/kube-image-prefetch) - Pre-pull all images, on all nodes, within a Kubernetes cluster [Go]
 
 [**cel-tester**](https://github.com/AverageMarcus/cel-tester) - Browser-based CEL expression tester [HTML, Go]
