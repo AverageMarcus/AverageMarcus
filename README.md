@@ -25,7 +25,8 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 
 <strong>
 
-Attendee
+<a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-paris-2024/talk/KCN3QV/"> From Fragile to Resilient: ValidatingAdmissionPolicies Strengthen Kubernetes</a>
+ - Talk
 
 </strong>
 
