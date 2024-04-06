@@ -13,42 +13,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 | <a href="https://marcusnoble.co.uk" rel="me" title="My articles on my Blog">Blog</a> | <a href="mailto:hello@marcusnoble.co.uk" rel="me" title="Email me">Email</a> | <a href="https://cv.marcusnoble.co.uk" rel="me" title="My CV">C.V.</a> | <a href="https://www.github.com/AverageMarcus" rel="me" title="AverageMarcus on GitHub">GitHub</a> | <a href="https://twitter.com/Marcus_Noble_" rel="me" title="@Marcus_Noble_ on Twitter">Twitter</a> | <a href="https://k8s.social/@Marcus" rel="me" title="@marcus@k8s.social on Mastodon">Mastodon</a> | <a href="https://www.linkedin.com/in/marcusnoble/" rel="me" title="Connect with me on Linkedin">LinkedIn</a> | <a href="https://speaking.marcusnoble.co.uk" rel="me" title="View my previous talks">Speaking</a> | <a href="https://youtube.com/playlist?list=PLT41C0Ggz5wa66-AU5xapbOuzkUKUPLzi" rel="me" title="My appearances on YouTube">YouTube</a> | <a href="https://name.pn/marcus-noble" rel="me" title="More about my name and pronouns">name.pn</a> | 
 
 
-## 🗓 Upcoming Events
-
-
-<div>March 17th - 18th, 2024</div>
-<div>
-
-[**Cloud Native Rejekts EU**](https://cloud-native.rejekts.io/)
-
-</div>
-
-<strong>
-
-<a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-paris-2024/talk/KCN3QV/"> From Fragile to Resilient: ValidatingAdmissionPolicies Strengthen Kubernetes</a>
- - Talk
-
-</strong>
-
-✨✨✨
-<div>March 19th - 22nd, 2024</div>
-<div>
-
-[**KubeCon &#43; CloudNativeCon EU**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
-</div>
-
-<strong>
-
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
-
-</strong>
-
-✨✨✨
-
-</div>
-
-
 
 
 ## 💻 My Open Source Projects
