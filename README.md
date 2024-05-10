@@ -16,6 +16,20 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
+<div>May 22nd, 2024</div>
+<div>
+
+[**London Platform User Group**](https://www.meetup.com/london-platform-user-group-lopug/events/299009077/)
+
+</div>
+
+<strong>
+
+Webhooks - What's the worst that could happen? - Talk
+
+</strong>
+
+✨✨✨
 <div>October 22nd - 23rd, 2024</div>
 <div>
 
