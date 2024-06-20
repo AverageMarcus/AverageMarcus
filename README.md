@@ -16,24 +16,24 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>May 22nd, 2024</div>
+<div>October 22nd - 23rd, 2024</div>
 <div>
 
-[**London Platform User Group**](https://www.meetup.com/london-platform-user-group-lopug/events/299009077/)
+[**Kubernetes Community Days UK**](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/)
 
 </div>
 
 <strong>
 
-Webhooks - What's the worst that could happen? - Talk
+Attendee
 
 </strong>
 
 ✨✨✨
-<div>October 22nd - 23rd, 2024</div>
+<div>November 10th - 11th, 2024</div>
 <div>
 
-[**Kubernetes Community Days UK**](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/)
+[**Cloud Native Rejekts NA**](https://cloud-native.rejekts.io/)
 
 </div>
 
