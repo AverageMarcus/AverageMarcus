@@ -25,7 +25,7 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 
 <strong>
 
-Attendee
+From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
 
 </strong>
 
@@ -39,7 +39,7 @@ Attendee
 
 <strong>
 
-Attendee
+From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
 
 </strong>
 
