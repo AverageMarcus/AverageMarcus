@@ -16,6 +16,20 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
+<div>October 15th, 2024</div>
+<div>
+
+[**Civo Navigate Local London**](https://www.civo.com/navigate/local)
+
+</div>
+
+<strong>
+
+Attendee
+
+</strong>
+
+✨✨✨
 <div>October 22nd - 23rd, 2024</div>
 <div>
 
