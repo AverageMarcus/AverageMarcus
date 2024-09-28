@@ -72,6 +72,20 @@ Attendee
 </strong>
 
 ✨✨✨
+<div>November 19th - 20th, 2024</div>
+<div>
+
+[**KCD Denmark**](https://kcddenmark.dk/)
+
+</div>
+
+<strong>
+
+From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
