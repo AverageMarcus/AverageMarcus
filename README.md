@@ -16,20 +16,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>October 22nd - 23rd, 2024</div>
-<div>
-
-[**Kubernetes Community Days UK**](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/)
-
-</div>
-
-<strong>
-
-From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
-
-</strong>
-
-✨✨✨
 <div>November 10th - 11th, 2024</div>
 <div>
 
