@@ -25,3 +25,54 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 
 <strong>
 
+Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+
+</strong>
+
+✨✨✨
+
+</div>
+
+
+
+
+## 💻 My Open Source Projects
+
+All my Open Source projects can be found on my <a href="https://github.com/AverageMarcus">GitHub</a> profile (as well as my personal <a href="https://git.cluster.fun">Gitea</a> instance, <a href="https://gitlab.com/AverageMarcus">GitLab</a>, <a href="https://codeberg.org/AverageMarcus">Codeberg</a> and <a href="https://bitbucket.org/AverageMarcus/workspace/projects/PROJ">BitBucket</a>).
+
+Below are a selection of highlights.
+
+
+[**devstats-viewer**](https://github.com/AverageMarcus/devstats-viewer) - Discover your CNCF devstats score based on your GitHub username [HTML]
+
+[**kube-image-prefetch**](https://github.com/AverageMarcus/kube-image-prefetch) - Pre-pull all images, on all nodes, within a Kubernetes cluster [Go]
+
+[**cel-tester**](https://github.com/AverageMarcus/cel-tester) - Browser-based CEL expression tester [HTML, Go]
+
+[**opengraph-image-gen**](https://github.com/AverageMarcus/opengraph-image-gen) - Dynamically generate OpenGraph social share images [HTML, Go]
+
+[**speedtest-exporter**](https://github.com/AverageMarcus/speedtest-exporter) - A prometheus exporter for Speedtest.net results [Go]
+
+[**feed-fetcher**](https://github.com/AverageMarcus/feed-fetcher) - Returns the RSS feed associated with the given URL [HTML, Go]
+
+[**link**](https://github.com/AverageMarcus/link) - Tiny link redirector. Best used with a short domain. [Go]
+
+
+
+
+## 🎖️ Badges
+
+
+<a href="https://www.credly.com/badges/fe951f9d-cbe8-4a5c-bb1a-793637a5958f/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0c431e75-3362-45fe-945c-1e62dda6defd/blob" />
+</a>
+
+<a href="https://www.credly.com/badges/cd63e887-72ac-49b0-8322-a4062d86d997/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/b1eaaa0e-3e14-4bfe-9881-9ce477cfa7fc/image.png" />
+</a>
+
+<a href="https://www.credly.com/badges/c88ef1de-e0f2-4376-b71d-7a28c7dd529b/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0ec45b92-a143-4c48-a2d5-290c95dbcdc9/blob" />
+</a>
+
+
