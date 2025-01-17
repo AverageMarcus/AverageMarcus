@@ -75,4 +75,8 @@ Below are a selection of highlights.
   <img src="https://images.credly.com/size/110x110/images/0ec45b92-a143-4c48-a2d5-290c95dbcdc9/blob" />
 </a>
 
+<a href="https://www.credly.com/badges/6eb33d91-c6c9-4b63-9803-1092913a1d95/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob" />
+</a>
+
 
