@@ -16,6 +16,20 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
+<div>March 13th, 2025</div>
+<div>
+
+[**Cloud Native Day Oslo**](https://cloudnativeday.no/)
+
+</div>
+
+<strong>
+
+From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
+
+</strong>
+
+✨✨✨
 <div>April 1st - 4th, 2025</div>
 <div>
 
@@ -64,19 +78,19 @@ Below are a selection of highlights.
 
 
 <a href="https://www.credly.com/badges/fe951f9d-cbe8-4a5c-bb1a-793637a5958f/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/0c431e75-3362-45fe-945c-1e62dda6defd/blob" />
+  <img src="https://images.credly.com/size/340x340/images/0c431e75-3362-45fe-945c-1e62dda6defd/blob" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/cd63e887-72ac-49b0-8322-a4062d86d997/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/b1eaaa0e-3e14-4bfe-9881-9ce477cfa7fc/image.png" />
+  <img src="https://images.credly.com/size/110x110/images/b1eaaa0e-3e14-4bfe-9881-9ce477cfa7fc/image.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/c88ef1de-e0f2-4376-b71d-7a28c7dd529b/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/0ec45b92-a143-4c48-a2d5-290c95dbcdc9/blob" />
+  <img src="https://images.credly.com/size/110x110/images/0ec45b92-a143-4c48-a2d5-290c95dbcdc9/blob" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/6eb33d91-c6c9-4b63-9803-1092913a1d95/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob" />
+  <img src="https://images.credly.com/size/340x340/images/5be4c74d-322f-476b-9fc9-72fda9c31ff2/blob" width="110px" />
 </a>
 
 
