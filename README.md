@@ -31,6 +31,20 @@ From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - T
 </strong>
 
 ✨✨✨
+<div>March 30th, 2025</div>
+<div>
+
+[**Cloud Native Rejekts Europe**](https://cloud-native.rejekts.io/)
+
+</div>
+
+<strong>
+
+Pod Deep Dive: Everything You Didn't Know You Needed to Know - Talk
+
+</strong>
+
+✨✨✨
 <div>April 1st - 4th, 2025</div>
 <div>
 
