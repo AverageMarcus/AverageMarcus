@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>March 13th, 2025</div>
-<div>
-
-[**Cloud Native Day Oslo**](https://cloudnativeday.no/)
-
-</div>
-
-<strong>
-
-From Fragile to Resilient: Using Admission Policies to Strengthen Kubernetes - Talk
-
-</strong>
-
-✨✨✨
 <div>March 30th, 2025</div>
 <div>
 
@@ -55,6 +41,20 @@ Pod Deep Dive: Everything You Didn't Know You Needed to Know - Talk
 <strong>
 
 Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
+
+</strong>
+
+✨✨✨
+<div>April 24th, 2025</div>
+<div>
+
+[**KCD Budapest**](https://community.cncf.io/events/details/cncf-kcd-budapest-presents-kcd-budapest-2025/)
+
+</div>
+
+<strong>
+
+The Future of Kubernetes Admission Logic - Talk
 
 </strong>
 
