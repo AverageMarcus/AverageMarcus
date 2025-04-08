@@ -17,34 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>March 30th, 2025</div>
-<div>
-
-[**Cloud Native Rejekts Europe**](https://cloud-native.rejekts.io/)
-
-</div>
-
-<strong>
-
-Pod Deep Dive: Everything You Didn't Know You Needed to Know - Talk
-
-</strong>
-
-✨✨✨
-<div>April 1st - 4th, 2025</div>
-<div>
-
-[**KubeCon &#43; CloudNativeCon Europe**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
-</div>
-
-<strong>
-
-Attendee and representing <a href="https://giantswarm.io/">Giant Swarm</a> as a sponsor
-
-</strong>
-
-✨✨✨
 <div>April 24th, 2025</div>
 <div>
 
