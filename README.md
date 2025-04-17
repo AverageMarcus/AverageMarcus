@@ -31,6 +31,20 @@ The Future of Kubernetes Admission Logic - Talk
 </strong>
 
 ✨✨✨
+<div>June 5th, 2025</div>
+<div>
+
+[**KCD Czech &amp; Slovak**](https://community.cncf.io/events/details/cncf-kcd-czech-slovak-presents-kcd-czech-amp-slovak-bratislava-2025/)
+
+</div>
+
+<strong>
+
+Pod Deep Dive: The Interesting Bits - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
