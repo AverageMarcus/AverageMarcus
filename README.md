@@ -17,24 +17,24 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>April 24th, 2025</div>
+<div>June 5th, 2025</div>
 <div>
 
-[**KCD Budapest**](https://community.cncf.io/events/details/cncf-kcd-budapest-presents-kcd-budapest-2025/)
+[**KCD Czech &amp; Slovak**](https://kcd-czech-slovak-2025.sessionize.com/session/837987)
 
 </div>
 
 <strong>
 
-The Future of Kubernetes Admission Logic - Talk
+Pod Deep Dive: The Interesting Bits - Talk
 
 </strong>
 
 ✨✨✨
-<div>June 5th, 2025</div>
+<div>July 21st, 2025</div>
 <div>
 
-[**KCD Czech &amp; Slovak**](https://community.cncf.io/events/details/cncf-kcd-czech-slovak-presents-kcd-czech-amp-slovak-bratislava-2025/)
+[**Cloud Native Summit Munich**](https://cloudnativesummit.de/schedule/)
 
 </div>
 
