@@ -45,6 +45,20 @@ Pod Deep Dive: The Interesting Bits - Talk
 </strong>
 
 ✨✨✨
+<div>September 11th, 2025</div>
+<div>
+
+[**ContainerDays Conference**](https://www.containerdays.io/containerdays-conference-2025/)
+
+</div>
+
+<strong>
+
+The Future of Kubernetes Admission Logic - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
