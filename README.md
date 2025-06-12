@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>June 5th, 2025</div>
-<div>
-
-[**KCD Czech &amp; Slovak**](https://kcd-czech-slovak-2025.sessionize.com/session/837987)
-
-</div>
-
-<strong>
-
-Pod Deep Dive: The Interesting Bits - Talk
-
-</strong>
-
-✨✨✨
 <div>July 21st, 2025</div>
 <div>
 
