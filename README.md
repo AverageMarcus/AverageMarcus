@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>July 21st, 2025</div>
-<div>
-
-[**Cloud Native Summit Munich**](https://cloudnativesummit.de/schedule/)
-
-</div>
-
-<strong>
-
-Pod Deep Dive: The Interesting Bits - Talk
-
-</strong>
-
-✨✨✨
 <div>September 11th, 2025</div>
 <div>
 
