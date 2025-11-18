@@ -14,6 +14,27 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 | <a href="https://marcusnoble.co.uk" rel="me" title="My articles on my Blog">Blog</a> | <a href="mailto:hello@marcusnoble.co.uk" rel="me" title="Email me">Email</a> | <a href="https://cv.marcusnoble.co.uk" rel="me" title="My CV">C.V.</a> | <a href="https://www.github.com/AverageMarcus" rel="me" title="AverageMarcus on GitHub">GitHub</a> | <a href="https://k8s.social/@Marcus" rel="me" title="@marcus@k8s.social on Mastodon">Mastodon</a> | <a href="https://bsky.app/profile/averagemarcus.bsky.social" rel="me" title="@averagemarcus.bsky.social on BlueSky">BlueSky</a> | <a href="https://www.linkedin.com/in/marcusnoble/" rel="me" title="Connect with me on Linkedin">LinkedIn</a> | <a href="https://speaking.marcusnoble.co.uk" rel="me" title="View my previous talks">Speaking</a> | <a href="https://youtube.com/playlist?list=PLT41C0Ggz5wa66-AU5xapbOuzkUKUPLzi" rel="me" title="My appearances on YouTube">YouTube</a> | <a href="https://name.pn/marcus-noble" rel="me" title="More about my name and pronouns">name.pn</a> | 
 
 
+## 🗓 Upcoming Events
+
+
+<div>February 12th, 2026</div>
+<div>
+
+[**ContainerDays London**](https://www.containerdays.io/containerdays-london-2026/)
+
+</div>
+
+<strong>
+
+Pod Deep Dive: The Interesting Bits - Talk
+
+</strong>
+
+✨✨✨
+
+</div>
+
+
 
 
 ## 💻 My Open Source Projects
