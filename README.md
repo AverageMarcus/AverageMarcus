@@ -31,6 +31,20 @@ Pod Deep Dive: The Interesting Bits - Talk
 </strong>
 
 ✨✨✨
+<div>March 25th, 2026</div>
+<div>
+
+[**KubeCon &#43; CloudNativeCon EU 2026**](https://kccnceu2026.sched.com/event/2CW2p/kube-oddities-the-quirks-that-keep-kubernetes-interesting-marcus-noble-monzo-mark-sagi-kazar-independent)
+
+</div>
+
+<strong>
+
+Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
