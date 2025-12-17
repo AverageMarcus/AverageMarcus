@@ -30,6 +30,12 @@ Pod Deep Dive: The Interesting Bits - Talk
 
 </strong>
 
+<strong>
+
+Debugging Your Conference Talk: Practical Tips to Resonate with your Audience - Talk
+
+</strong>
+
 ✨✨✨
 <div>March 25th, 2026</div>
 <div>
@@ -79,6 +85,10 @@ Below are a selection of highlights.
 
 ## 🎖️ Badges
 
+
+<a href="https://www.credly.com/badges/51c920b6-d90f-4fd7-a9bb-9dbb97c2aec7/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/f09ecd0d-af5b-4933-9919-5db84511eae4/blob" width="110px" />
+</a>
 
 <a href="https://www.credly.com/badges/59794507-b4d4-40a4-bd30-d49b1bc9ed5e/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/e094e852-abe8-4ed2-b0f7-54adeeb910ee/blob" width="110px" />
