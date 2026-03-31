@@ -17,38 +17,10 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>March 21st, 2026</div>
+<div>May 19th, 2026&#34;</div>
 <div>
 
-[**Cloud Native Rejekts Amsterdam**](https://cloud-native.rejekts.io)
-
-</div>
-
-<strong>
-
-Attendee
-
-</strong>
-
-✨✨✨
-<div>March 22nd, 2026</div>
-<div>
-
-[**Maintainer Summit**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/maintainer-summit/)
-
-</div>
-
-<strong>
-
-Attendee
-
-</strong>
-
-✨✨✨
-<div>March 25th, 2026</div>
-<div>
-
-[**KubeCon &#43; CloudNativeCon EU 2026**](https://kccnceu2026.sched.com/event/2CW2p/kube-oddities-the-quirks-that-keep-kubernetes-interesting-marcus-noble-monzo-mark-sagi-kazar-independent)
+[**Cloud Native Days Romania**](https://cloudnativedays.ro/schedule/a130ca9e-5ae4-45a3-a0e8-8111d910b4ec)
 
 </div>
 
