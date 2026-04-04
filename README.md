@@ -31,6 +31,20 @@ Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Má
 </strong>
 
 ✨✨✨
+<div>September 2nd, 2026&#34;</div>
+<div>
+
+[**Container Days Hamburg**](https://www.containerdays.io/containerdays-hamburg-2026/)
+
+</div>
+
+<strong>
+
+Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
@@ -65,6 +79,10 @@ Below are a selection of highlights.
 
 ## 🎖️ Badges
 
+
+<a href="https://www.credly.com/badges/84a5f3c2-ebc7-4ca8-ad2a-e70c0dcc0953/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" width="110px" />
+</a>
 
 <a href="https://www.credly.com/badges/51c920b6-d90f-4fd7-a9bb-9dbb97c2aec7/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/f09ecd0d-af5b-4933-9919-5db84511eae4/blob" width="110px" />
