@@ -17,7 +17,7 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>May 19th, 2026&#34;</div>
+<div>May 19th, 2026</div>
 <div>
 
 [**Cloud Native Days Romania**](https://cloudnativedays.ro/schedule/a130ca9e-5ae4-45a3-a0e8-8111d910b4ec)
@@ -31,7 +31,7 @@ Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Má
 </strong>
 
 ✨✨✨
-<div>September 2nd, 2026&#34;</div>
+<div>September 2nd, 2026</div>
 <div>
 
 [**Container Days Hamburg**](https://www.containerdays.io/containerdays-hamburg-2026/)
