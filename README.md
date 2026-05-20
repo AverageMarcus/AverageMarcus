@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>May 19th, 2026</div>
-<div>
-
-[**Cloud Native Days Romania**](https://cloudnativedays.ro/schedule/a130ca9e-5ae4-45a3-a0e8-8111d910b4ec)
-
-</div>
-
-<strong>
-
-Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
-
-</strong>
-
-✨✨✨
 <div>September 2nd, 2026</div>
 <div>
 
@@ -79,6 +65,10 @@ Below are a selection of highlights.
 
 ## 🎖️ Badges
 
+
+<a href="https://www.credly.com/badges/0727e493-d1fc-46e3-b4e6-76b853d705a4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/c6ac42b3-deaa-4d29-b065-0efb1b533eed/blob" width="110px" />
+</a>
 
 <a href="https://www.credly.com/badges/84a5f3c2-ebc7-4ca8-ad2a-e70c0dcc0953/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" width="110px" />
