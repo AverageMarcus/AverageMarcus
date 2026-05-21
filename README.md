@@ -17,6 +17,20 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
+<div>July 29th, 2026</div>
+<div>
+
+[**KubeCon &#43; CloudNativeCon Japan 2026**](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
+
+</div>
+
+<strong>
+
+Attendee
+
+</strong>
+
+✨✨✨
 <div>September 2nd, 2026</div>
 <div>
 
