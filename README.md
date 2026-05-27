@@ -81,39 +81,39 @@ Below are a selection of highlights.
 
 
 <a href="https://credsverse.com/credentials/35451a42-271c-4858-9c02-be8c25d6dcb6" target="_blank">
-  <img src="/badges/35451a42-271c-4858-9c02-be8c25d6dcb6.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/35451a42-271c-4858-9c02-be8c25d6dcb6.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/0727e493-d1fc-46e3-b4e6-76b853d705a4/public_url" target="_blank">
-  <img src="/badges/0727e493-d1fc-46e3-b4e6-76b853d705a4.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/0727e493-d1fc-46e3-b4e6-76b853d705a4.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/84a5f3c2-ebc7-4ca8-ad2a-e70c0dcc0953/public_url" target="_blank">
-  <img src="/badges/84a5f3c2-ebc7-4ca8-ad2a-e70c0dcc0953.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/84a5f3c2-ebc7-4ca8-ad2a-e70c0dcc0953.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/51c920b6-d90f-4fd7-a9bb-9dbb97c2aec7/public_url" target="_blank">
-  <img src="/badges/51c920b6-d90f-4fd7-a9bb-9dbb97c2aec7.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/51c920b6-d90f-4fd7-a9bb-9dbb97c2aec7.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/59794507-b4d4-40a4-bd30-d49b1bc9ed5e/public_url" target="_blank">
-  <img src="/badges/59794507-b4d4-40a4-bd30-d49b1bc9ed5e.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/59794507-b4d4-40a4-bd30-d49b1bc9ed5e.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/6eb33d91-c6c9-4b63-9803-1092913a1d95/public_url" target="_blank">
-  <img src="/badges/6eb33d91-c6c9-4b63-9803-1092913a1d95.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/6eb33d91-c6c9-4b63-9803-1092913a1d95.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/c88ef1de-e0f2-4376-b71d-7a28c7dd529b/public_url" target="_blank">
-  <img src="/badges/c88ef1de-e0f2-4376-b71d-7a28c7dd529b.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/c88ef1de-e0f2-4376-b71d-7a28c7dd529b.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/fe951f9d-cbe8-4a5c-bb1a-793637a5958f/public_url" target="_blank">
-  <img src="/badges/fe951f9d-cbe8-4a5c-bb1a-793637a5958f.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/fe951f9d-cbe8-4a5c-bb1a-793637a5958f.png" width="110px" />
 </a>
 
 <a href="https://www.credly.com/badges/cd63e887-72ac-49b0-8322-a4062d86d997/public_url" target="_blank">
-  <img src="/badges/cd63e887-72ac-49b0-8322-a4062d86d997.png" width="110px" />
+  <img src="https://www.marcusnoble.com//badges/cd63e887-72ac-49b0-8322-a4062d86d997.png" width="110px" />
 </a>
 
 
