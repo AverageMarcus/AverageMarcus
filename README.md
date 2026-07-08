@@ -45,6 +45,34 @@ Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Má
 </strong>
 
 ✨✨✨
+<div>September 29th, 2026</div>
+<div>
+
+[**KCD Sofia**](https://kcd.bg)
+
+</div>
+
+<strong>
+
+Attendee
+
+</strong>
+
+✨✨✨
+<div>October 22nd, 2026</div>
+<div>
+
+[**Cloud Native DaysPoland**](https://cloudnativedayspoland.org)
+
+</div>
+
+<strong>
+
+Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
