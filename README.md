@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>July 29th, 2026</div>
-<div>
-
-[**KubeCon &#43; CloudNativeCon Japan 2026**](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
-
-</div>
-
-<strong>
-
-Attendee
-
-</strong>
-
-✨✨✨
 <div>September 2nd, 2026</div>
 <div>
 
@@ -54,7 +40,33 @@ Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Má
 
 <strong>
 
-Attendee
+Track Host
+
+</strong>
+
+<strong>
+
+Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
+
+</strong>
+
+<strong>
+
+The AI side effects we're not talking about - Lightning Talk
+
+</strong>
+
+✨✨✨
+<div>October 19th, 2026</div>
+<div>
+
+[**Kubernetes Community Days UK**](http://kcduk.io)
+
+</div>
+
+<strong>
+
+Pod Deep Dive: The Interesting Bits - Talk
 
 </strong>
 
@@ -62,7 +74,7 @@ Attendee
 <div>October 22nd, 2026</div>
 <div>
 
-[**Cloud Native DaysPoland**](https://cloudnativedayspoland.org)
+[**Cloud Native Days Poland**](https://cloudnativedayspoland.org)
 
 </div>
 
