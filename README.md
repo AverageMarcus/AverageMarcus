@@ -85,6 +85,20 @@ Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Má
 </strong>
 
 ✨✨✨
+<div>November 19th, 2026</div>
+<div>
+
+[**Cloud Native Denmark**](https://cloudnativedenmark.dk)
+
+</div>
+
+<strong>
+
+The AI side effects we're not talking about - Talk
+
+</strong>
+
+✨✨✨
 
 </div>
 
