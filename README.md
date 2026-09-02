@@ -17,20 +17,6 @@ I'm always happy to chat so feel free to drop me an email at <span class="email-
 ## 🗓 Upcoming Events
 
 
-<div>September 2nd, 2026</div>
-<div>
-
-[**Container Days Hamburg**](https://www.containerdays.io/containerdays-hamburg-2026/)
-
-</div>
-
-<strong>
-
-Kube-Oddities - The Quirks That Keep Kubernetes Interesting - Marcus Noble & Márk Sági-Kazár - Talk
-
-</strong>
-
-✨✨✨
 <div>September 29th, 2026</div>
 <div>
 
@@ -133,6 +119,10 @@ Below are a selection of highlights.
 
 ## 🎖️ Badges
 
+
+<a href="https://www.credly.com/badges/075bdc47-31b9-4e01-9bc4-04b14b76f0a1/public_url" target="_blank">
+  <img src="https://www.marcusnoble.com//badges/cncf-ambassador-2026-2028.png" width="110px" />
+</a>
 
 <a href="https://www.credly.com/badges/cd254640-352e-4c5b-b5c5-12fe03c1bd19/public_url" target="_blank">
   <img src="https://www.marcusnoble.com//badges/track-chair-kubecon-cloudnativecon-north-america-20.5.png" width="110px" />
